@@ -1,5 +1,5 @@
 # AI-Value-Iteration
-![Values](https://github.com/Michael-Elrod-dev/AI-Value-Iteration/blob/main/Value Iteration.png)
+![Values](https://github.com/Michael-Elrod-dev/AI-Value-Iteration/blob/main/Value-Iteration.png)
 
 ![Policy](https://github.com/Michael-Elrod-dev/AI-Value-Iteration/blob/main/Policy.png)
 
