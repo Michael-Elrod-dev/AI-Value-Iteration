@@ -1,4 +1,7 @@
 # AI-Value-Iteration
+![Values](https://github.com/Michael-Elrod-dev/AI-Value-Iteration/blob/main/Value Iteration.png)
+
+![Policy](https://github.com/Michael-Elrod-dev/AI-Value-Iteration/blob/main/Policy.png)
 
 ### Description:
 This program simulates an agent navigating through a grid world using the Markov Decision Process (MDP). The goal of the agent is to find the optimal path from the start state `S` to the terminal state `T` while avoiding obstacles denoted by `X`. The program utilizes the value iteration algorithm to compute the best policy for navigating the grid. The agent can take actions in four directions: up, down, left, and right.
